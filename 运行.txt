@@ -1,0 +1,4 @@
+# 构建静态文件
+vuepress build 
+# 开始写作
+vuepress dev docs
