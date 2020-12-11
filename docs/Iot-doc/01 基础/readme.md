@@ -21,6 +21,6 @@ HeLinks 基于Java8,Spring Cloud 2.x,WebFlux,Netty,Vert.x,Reactor等开发, 是�
 **待蒋李鑫补充**
 
 ## 架构 
-![架构图](/image/和能物联网框架图.png)
+![架构图](../image/和能物联网框架图.png)
 
  

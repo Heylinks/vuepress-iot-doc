@@ -1,0 +1,16 @@
+1. 运行:
+windows : 运行run.bat即可 
+linux: 
+```sh
+java -jar auto-vuepress-doc.jar 
+vuepress dev docs
+
+```
+
+2. markdown 编写规范
+
+* 每个markdown文件必须要有一级标题 
+* 在/docs/Iot-doc/xx/中编写文档,记得按文件夹分类,不要直接在根目录创建md文件 
+* 如果每个文档模块,默认说明文件是readme.md
+* 排序请用 [01 模块名] 命名 
+* 图片请改用图床,不要使用本地图片 
