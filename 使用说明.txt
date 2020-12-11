@@ -1,4 +1,9 @@
-1. 运行:
+0. 首次运行需要安装环境: 
+* java 1.8 以上 
+* 请确保你的 Node.js 版本 >= 8.6 
+* yarn global add vuepress # 或者：npm install -g vuepress 
+
+1. 部署:
 windows : 运行run.bat即可 
 linux: 
 ```sh
