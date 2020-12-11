@@ -3,9 +3,9 @@ home: true
 title: 和能物联网文档中心
 description: 最符合国内物联场景的物联网平台 
 tagline: 最符合国内物联场景的物联网平台 
-heroImage: /hero.png 
+heroImage: /head.png 
 actionText: 快速上手 →
-actionLink: /main/01 基础/
+actionLink: /Iot-doc/01 基础/
 features:
 - title: 微服务架构
   details: 支持集群大规模部署,支持千万级设备连接 
