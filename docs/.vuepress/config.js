@@ -38,8 +38,6 @@ module.exports = {
 
     themeConfig: {
       nav: require('./nav.js'),  // 导航菜单 
- 
-
       sidebarDepth: 3, // 侧边栏显示2级
 
       // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
