@@ -1,5 +1,4 @@
-//const {getChildren} = require("vuepress-sidebar-atuo")
-
+ 
 module.exports = {
     base: '/iot-doc/',   // 访问路径  
     title: '和能物联网文档中心',
@@ -61,23 +60,7 @@ module.exports = {
  
     },
   
-    // '/操作手册/': [
-    //   {
-    //       title: '进阶',
-    //       collapsable: true,
-    //       children: getChildren('./docs/Iot-doc/03 进阶/')
-    //   }
-    // ],
-
-    // 配置底部
-    // "author": "和能科技", //版权信息，与昵称为同一数据
-    // "record": "www.HnLinks.cn", //备案信息
-    // "startYear": "2020", //开始年份
-
-    // markdown: {
-    //   lineNumbers: true // 代码块显示行号
-    // },
-
+    
     // 插件 
     plugins: { 
      // "vuepress-plugin-auto-sidebar": {},
